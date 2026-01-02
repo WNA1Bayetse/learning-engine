@@ -1,5 +1,12 @@
-{
-    "subjects": "AI Engineering Fundamentals",
-    "duration_minutes": 60,
-    "date": "2025-12-28"
-}
+[
+    {
+        "subjects": "AI Engineering Fundamentals",
+        "duration_minutes": 60,
+        "date": "2025-12-28"
+    },
+    {
+        "subject": "Mathematics",
+        "duration_minutes": 3,
+        "date": "2023-12-2"
+    }
+]
