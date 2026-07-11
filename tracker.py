@@ -7,13 +7,7 @@ filename = "study_log.json"
 print("--- Study Session Logger ---")
 subject = input("What did you study? ")
 
-# We use a 'while' loop to keep asking until the user gives a valid number
-while True:
-    try:
-        duration = int(input("For how many minutes? "))
-        break # Success! Exit the loop
-    except ValueError:
-        print("❌ Error: Please enter a whole number (e.g., 60).")
+duration = int(input("For how many minutes? "))
 
 date = input("Date (YYYY-MM-DD): ")
 
